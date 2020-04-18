@@ -16,5 +16,5 @@ test kafka
 `python test_producer.py`
 
 
-##You can change any thing in kafka configurations and rebuild the image
+## You can change any thing in kafka configurations and rebuild the image
 
