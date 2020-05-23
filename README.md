@@ -13,6 +13,11 @@ Install kafka client
 
 test kafka
 
+`python test_consumer.py`
+
+
+open new terminal
+
 `python test_producer.py`
 
 
